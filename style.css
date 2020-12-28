@@ -82,7 +82,7 @@ nav ul li {
     text-transform: uppercase;
     color: #fff;
     margin: 2.5rem 0;
-    /* transform: translateX(-100%); */
+    transform: translateX(-100%);
     transition: transform 0.3s ease-in;
 }
 
@@ -93,8 +93,12 @@ nav ul li i {
 
 nav ul li + li {
     margin-left: 0.9375rem;
+    transform: translateX(-150%);
+
 }
 nav ul li + li + li {
+    transform: translateX(-200%);
+
     margin-left: 1.875rem;
 }
 
