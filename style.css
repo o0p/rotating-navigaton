@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-    border-color: #fafafa;
+    background-color: #fafafa;
 }
 
 .container.show-nav {
