@@ -66,6 +66,13 @@ body {
     transform-origin: top left;
 }
 
+nav {
+    position: fixed;
+    bottom: 2.5rem;
+    left: 0;
+    z-index: 100;
+}
+
 .content img {
     max-width: 100%;
 }
