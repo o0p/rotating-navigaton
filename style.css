@@ -91,6 +91,13 @@ nav ul li i {
     margin-right: 0.625rem ;
 }
 
+nav ul li + li {
+    margin-left: 0.9375rem;
+}
+nav ul li + li + li {
+    margin-left: 1.875rem;
+}
+
 .content img {
     max-width: 100%;
 }
