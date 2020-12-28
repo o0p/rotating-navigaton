@@ -73,6 +73,12 @@ nav {
     z-index: 100;
 }
 
+nav ul {
+    list-style-type: none;
+    padding-left: 1.875rem;
+}
+
+
 .content img {
     max-width: 100%;
 }
