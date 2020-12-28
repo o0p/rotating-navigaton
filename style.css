@@ -11,3 +11,8 @@ body {
     overflow-x: hidden;
     margin: 0;
 }
+
+.container {
+    border-color: #fafafa;
+}
+
