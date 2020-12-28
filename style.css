@@ -56,6 +56,10 @@ body {
     outline: none;
 }
 
+.container.show-nav .circle {
+    transform: rotate(-70deg);
+}
+
 .circle button#open {
     left: 60%;
 }
