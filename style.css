@@ -66,6 +66,12 @@ body {
     transform-origin: top left;
 }
 
+.container.show-nav + nav li {
+    transform: translateX(0);
+    transition-delay: 0.3s; 
+    /* tweak later */
+}
+
 nav {
     position: fixed;
     bottom: 2.5rem;
